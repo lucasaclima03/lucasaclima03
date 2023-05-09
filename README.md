@@ -1,12 +1,12 @@
-Hi 👋 My name is Lucas Almeida
+Olá! 👋 Meu nome é Lucas Almeida
 ==============================
 
 Web Developer
 -----------------
 
-I'm graduated in Analysis System and Development. I work professionaly with web development since 2021, mainly on the backend.
+Sou formado em Análise e Desenvolvimento de Sistemas e Pós Graduado em Engenharia de Software. Trabalho profissionalmente com desenvolvimento desde 2021, na maior parte no backend.
 
-* 🌍  I'm based in Maceió, Al
+* 🌍  Maceió, Al
 
 ### Skills
 
