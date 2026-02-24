@@ -4,7 +4,7 @@ Olá! 👋 Meu nome é Lucas Almeida
 Web Developer
 -----------------
 
-Sou formado em Análise e Desenvolvimento de Sistemas e Pós Graduado em Engenharia de Software. Trabalho profissionalmente com desenvolvimento desde 2021, na maior parte no backend.
+
 
 * 🌍  Maceió, Al
 
